@@ -1,0 +1,7 @@
+how to store a field in database
+
+** note **
+if you want any new field in any pages in project it can change everything 
+
+Example : Email and passoword is essintical for the log in if you can add up new pages for that is chage the field
+   exising db field
